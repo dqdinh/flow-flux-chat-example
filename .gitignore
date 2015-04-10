@@ -1,0 +1,6 @@
+*TAGS
+_build
+.DS_STORE
+docs/_site/
+bin
+.commit-template
